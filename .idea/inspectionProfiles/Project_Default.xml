@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="yandex.MyWidget.tableWidget" />
+          <option value="main.CoffeeStart.pushButton" />
+          <option value="main.CoffeeStart.tableWidget" />
+          <option value="PyQt5.uic" />
+          <option value="main.CoffeeChange.tableWidget" />
+          <option value="main.CoffeeChange.pushButton" />
+          <option value="main.CoffeeChange.sort" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
